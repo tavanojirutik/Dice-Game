@@ -16,6 +16,10 @@ Features:
 ## If Can't Select a Number and Press on Dice Then Show Error 
 ![image](https://github.com/tavanojirutik/Dice-Game/blob/main/Error-Page.png)
 
+## If select the Number and Dice Number is Give write So Numer is increased
+![image](https://github.com/tavanojirutik/Dice-Game/blob/main/GamePage3.png)
 
+## If the Selected Number and Dice number do not match show a Negative number
+![image](https://github.com/tavanojirutik/Dice-Game/blob/main/GamePage2.png)
 
 
