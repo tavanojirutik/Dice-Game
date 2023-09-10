@@ -22,4 +22,7 @@ Features:
 ## If the Selected Number and Dice number do not match show a Negative number
 ![image](https://github.com/tavanojirutik/Dice-Game/blob/main/GamePage2.png)
 
+## Rules and Reset Button
+![image](https://github.com/tavanojirutik/Dice-Game/blob/main/Rules.png)
+
 
