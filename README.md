@@ -8,7 +8,7 @@ Features:
 -> Styled using styled components for modern and responsive design.
 
 ## Entry Page
-[![image](https://github.com/tavanojirutik/Dice-Game/blob/main/Front-Page.png)]
+![image](https://github.com/tavanojirutik/Dice-Game/blob/main/Front-Page.png)
 
 ## Game Interface
 [![image](https://github.com/tavanojirutik/Dice-Game/blob/main/GamePage1.png)]
