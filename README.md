@@ -11,10 +11,10 @@ Features:
 ![image](https://github.com/tavanojirutik/Dice-Game/blob/main/Front-Page.png)
 
 ## Game Interface
-[![image](https://github.com/tavanojirutik/Dice-Game/blob/main/GamePage1.png)]
+![image](https://github.com/tavanojirutik/Dice-Game/blob/main/GamePage1.png)
 
 ## If Can't Select a Number and Press on Dice Then Show Error 
-[![image](https://github.com/tavanojirutik/Dice-Game/blob/main/Error-Page.png)]
+![image](https://github.com/tavanojirutik/Dice-Game/blob/main/Error-Page.png)
 
 
 
